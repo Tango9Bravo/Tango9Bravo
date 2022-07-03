@@ -1,8 +1,8 @@
 I’m @Tango9Bravo
 
 I’m interested in Networking, Programing, Hacks, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on whayever come up
+ I’m currently learning ...
+-  I’m looking to collaborate on whatever comes up
 
 Tango9B
 
